@@ -5,6 +5,7 @@
     <title>Welcome to RSSHub!</title>
     {{ if disallowRobot }}
         <meta name="robots" content="noindex">
+        <meta name="p:domain_verify" content="7e49627c185039b8d1c91b8a2a0119dd"/>
     {{ /if }}
     <style>
         body {
